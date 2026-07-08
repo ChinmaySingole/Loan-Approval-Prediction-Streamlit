@@ -8,5 +8,4 @@ streamlit
 lightgbm
 xgboost 
 catboost
-pickle
 joblib
